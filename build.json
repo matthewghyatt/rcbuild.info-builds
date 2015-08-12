@@ -5,7 +5,7 @@
     "motor": "Cobra/CM-2204-2300kv",
     "fc": "ReadyToFlyQuads/Sparky-1.0-v2",
     "prop": [
-      "Gemfan/5x4.5-FG-BN"
+      "HQProp/5x4.5-FG-BN"
     ],
     "arm": "",
     "battery": [

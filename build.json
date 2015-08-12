@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Lumenier/QAV250-Mini-FPV-Quadcopter---Carbon-Fiber-Edition",
+    "esc": "DYS/Mini-20A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "ReadyToFlyQuads/Sparky-1.0-v2",
+    "prop": [
+      "Gemfan/5x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Lumenier/1800mAh-4s-75c-Lipo"
+    ],
+    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "UnknownManufacturer/dronematters/PZ0420-IR-Blocked-600TVL-Sony-Super-HAD-D-WDR-CCD-Camera-with-2.8mm-Lens",
+    "hqcam": "GoPro/HERO3+-Black-Edition",
+    "videotx": "ImmersionRC/5.8GHz-600mw",
+    "blackbox": "",
+    "voltagereg": "Pololu/D24V6F5"
+  },
+  "version": 1
 }

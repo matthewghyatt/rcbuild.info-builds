@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Drone-Frames/CF-DRQ250-\"Mini-D\"---Carbon-Fiber",
+    "esc": "Velotech 12A(Afro 12A clone, BlHeli 13, Damped)",
+    "motor": "Sunnysky/X2204-16-2300kv",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "HQProp/5x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy Nano-Tech 3S 1500mAh 35C"
+    ],
+    "osd": "",
+    "receiver": "",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }

@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ZMR250",
+    "esc": "DYS/Mini-20A",
+    "motor": "RCX 2208 1800kv",
+    "fc": "Flip32 Rev5",
+    "prop": [
+      "HQProp/6x4.5-FG-DD"
+    ],
+    "arm": "",
+    "battery": [
+      "Zippy Compact 4S 2200mah 60C"
+    ],
+    "osd": "",
+    "receiver": "FrSky/X4RSB",
+    "flightcam": "UnknownManufacturer/dronematters/PZ0420-IR-Blocked-600TVL-Sony-Super-HAD-D-WDR-CCD-Camera-with-2.8mm-Lens",
+    "hqcam": "GoPro/HD-HERO",
+    "videotx": "FatShark/5.8GHz-250mW",
+    "blackbox": "",
+    "voltagereg": "ElectriFly 3amp"
+  },
+  "version": 1
 }

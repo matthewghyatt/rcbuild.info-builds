@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "HoverThings/\"Flip-FPV-PRO-G\"-Black-(Gimbal-Version)-",
+    "esc": "Afro 20A",
+    "motor": "Sunnysky/X2208-15-1260kv-II",
+    "fc": "AbuseMark/Full-Naze32",
+    "prop": [
+      "HQProp/8x5-CF-E"
+    ],
+    "arm": "",
+    "battery": [
+      "Zippy/Compact-4S-4000mAh-25C"
+    ],
+    "osd": "ReadyToFlyQuads/MinimOSD",
+    "receiver": "FrSky/D4R-II",
+    "flightcam": "ReadyMadeRC/700XV-700TVL-ATR-CCD-(NTSC)",
+    "hqcam": "GoPro/HERO3+-Black-Edition",
+    "videotx": "FatShark/5.8GHz-250mW",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }

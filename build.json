@@ -5,7 +5,7 @@
     "motor": "Cobra/CM-2204-2300kv",
     "fc": "ReadyToFlyQuads/Sparky-1.0-v2",
     "prop": [
-      "HQProp/5x4.5-FG-BN"
+      "HQProp/5x4x3-FG-DD"
     ],
     "arm": "Lumenier/QAV250-Carbon-Fiber-Main-\"Unibody\"-Frame-Plate-(3mm)",
     "battery": [
